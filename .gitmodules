@@ -1,0 +1,3 @@
+[submodule "chessle"]
+	path = chessle
+	url = https://github.com/shuhaoli/chessle
